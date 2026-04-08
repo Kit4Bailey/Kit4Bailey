@@ -1,8 +1,6 @@
 # kit
 
-python dev, nobara linux daily driver, and yes i did write the same calculator in 47 different languages.
-
-currently getting into python backend / web stuff. messing around with cryptography, currency converters, and whatever else sounds interesting.
+python dev, nobara linux daily driver
 
 ---
 
