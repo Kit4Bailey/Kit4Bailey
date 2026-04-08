@@ -1,6 +1,6 @@
 # kit
 <p align="center">
-<img alt="animation gif" src="https://github.com/Kit4Bailey/Kit4Bailey/blob/main/assets/animation.gif" />
+<img alt="animation gif" src="https://github.com/Kit4Bailey/Kit4Bailey/blob/main/assets/animation2.gif" />
 </p>
 ---
 
