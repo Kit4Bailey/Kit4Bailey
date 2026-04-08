@@ -1,6 +1,6 @@
 # kit
 
-python dev, nobara linux daily driver
+<img align="center" alt="animation gif" src="https://github.com/Kit4Bailey/Kit4Bailey/blob/main/assets/animation.gif" />
 
 ---
 
